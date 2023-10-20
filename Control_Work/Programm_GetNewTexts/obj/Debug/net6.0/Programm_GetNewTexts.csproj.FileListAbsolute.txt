@@ -1,0 +1,15 @@
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\bin\Debug\net6.0\Programm_GetNewTexts.exe
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\bin\Debug\net6.0\Programm_GetNewTexts.deps.json
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\bin\Debug\net6.0\Programm_GetNewTexts.runtimeconfig.json
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\bin\Debug\net6.0\Programm_GetNewTexts.dll
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\bin\Debug\net6.0\Programm_GetNewTexts.pdb
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\obj\Debug\net6.0\Programm_GetNewTexts.csproj.AssemblyReference.cache
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\obj\Debug\net6.0\Programm_GetNewTexts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\obj\Debug\net6.0\Programm_GetNewTexts.AssemblyInfoInputs.cache
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\obj\Debug\net6.0\Programm_GetNewTexts.AssemblyInfo.cs
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\obj\Debug\net6.0\Programm_GetNewTexts.csproj.CoreCompileInputs.cache
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\obj\Debug\net6.0\Programm_GetNewTexts.dll
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\obj\Debug\net6.0\refint\Programm_GetNewTexts.dll
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\obj\Debug\net6.0\Programm_GetNewTexts.pdb
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\obj\Debug\net6.0\Programm_GetNewTexts.genruntimeconfig.cache
+C:\Users\annre\Desktop\Обучение Разработчик\Control Works\Control Work _ Base course\Control_Work\Programm_GetNewTexts\obj\Debug\net6.0\ref\Programm_GetNewTexts.dll

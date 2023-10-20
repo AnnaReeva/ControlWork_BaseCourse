@@ -19,6 +19,23 @@ int CountLenNewTexts(string [] texts)
     return count;
 }
 
+string [] NewTexts(string [] texts)
+{
+    int size = CountLenNewTexts(texts);
+    string [] newTexts = new string [size];
+    int current_number = 0;
+    for (int i = 0; i < texts.Length; i++)
+    {
+        if (texts[i].Length <= 3)
+        {
+            newTexts[current_number] = texts[i];
+            current_number++;
+        }
+    }
+    return newTexts;
+
+}
+
 void PrintArray(string[] array)
 {
     Console.Write("[");
@@ -38,3 +55,6 @@ void PrintArray(string[] array)
 
 
 PrintArray(texts);
+int countn = CountLenNewTexts(texts);
+string [] newTexts = NewTexts(texts);
+PrintArray(newTexts);

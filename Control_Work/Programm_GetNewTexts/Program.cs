@@ -6,7 +6,18 @@ for (int i = 0; i < texts.Length; i++)
     texts[i] = input;
 }
 
-
+int CountLenNewTexts(string [] texts)
+{
+    int count = 0;
+    for (int i = 0; i < texts.Length; i++)
+    {
+        if (texts[i].Length <=3)
+        {
+            count +=1;
+        }
+    }
+    return count;
+}
 
 void PrintArray(string[] array)
 {
@@ -24,5 +35,6 @@ void PrintArray(string[] array)
     Console.Write("\"]");
     Console.WriteLine();
 }           
+
 
 PrintArray(texts);

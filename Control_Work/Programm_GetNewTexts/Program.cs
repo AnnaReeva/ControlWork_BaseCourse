@@ -1,4 +1,4 @@
-﻿string[] texts = new string[4];
+﻿string[] texts = new string[5];
 for (int i = 0; i < texts.Length; i++)
 {
     Console.WriteLine("Enter word: ");
@@ -39,7 +39,7 @@ string [] NewTexts(string [] texts)
 void PrintArray(string[] array)
 {
     Console.Write("[");
-    string gap = "\"";
+    string gap = "";
     for (int i = 0; i < array.Length; i++)
     {
         gap+= array[i].ToString();
